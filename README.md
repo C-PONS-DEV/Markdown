@@ -1,10 +1,10 @@
 # personal_portfolio
 Personal portfolio, Clément PONS 2021
 
-#Installation:
+Installation:
 - npm install
 
-#Launch:
+Launch:
 - npm start
 
 Author: Clément PONS
